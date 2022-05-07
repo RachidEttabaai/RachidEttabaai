@@ -16,4 +16,4 @@ https://www.linkedin.com/in/rachid-ettabaai).
 
 | Back-end                                         	| Front-end                                            	| Outils                                                	| Pratiques                                                                      	|
 |--------------------------------------------------	|------------------------------------------------------	|-------------------------------------------------------	|--------------------------------------------------------------------------------	|
-| - **PHP**<br>- **Symfony**<br>- Python 	| - HTML/CSS<br>- Javascript<br>- ReactJS 	| - Git/Github/Gitlab<br>- MySQL<br>-  	| - Clean code<br>- CI/CD<br>- UML/Merise 	|
+| - **PHP**<br>- **Symfony**<br> 	| - HTML/CSS<br>- Javascript<br>- ReactJS 	| - Git/Github/Gitlab<br>- MySQL<br>  	| - Clean code<br>- CI/CD<br>- UML/Merise 	|
