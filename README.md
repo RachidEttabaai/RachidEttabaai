@@ -6,7 +6,7 @@
 
 <div style="display: flex;">
   <img alt="PHP" src="https://simpleicons.org/icons/php.svg" width="50" heigth="50"/>
-  <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+  <img alt="Git" src="https://simpleicons.org/icons/git.svg" width="50" heigth="50"/>
 </div>
 
 ## Présentation
