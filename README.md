@@ -5,7 +5,7 @@
 ## Développeur Web Back-end PHP Symfony
 
 <div style="display: flex;">
-  <img alt="PHP" src="https://simpleicons.org/icons/php.svg"/>
+  <img alt="PHP" src="https://simpleicons.org/icons/php.svg" width="10" heigth="10"/>
   <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 </div>
 
