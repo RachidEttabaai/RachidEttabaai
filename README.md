@@ -4,6 +4,10 @@
 
 ## Développeur Web Back-end PHP Symfony
 
+<div style="display: flex;">
+  <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+</div>
+
 ## Présentation
 
 Diplomé depuis fin 2020 d’un titre pro développeur web et web mobile RNCP
