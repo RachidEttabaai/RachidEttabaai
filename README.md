@@ -6,6 +6,7 @@
 
 <div style="display: flex;">
   <img alt="PHP" src="https://simpleicons.org/icons/php.svg" width="50" heigth="50"/>
+  <img alt="Symfony" src="https://simpleicons.org/icons/symfony.svg" width="50" heigth="50"/>
   <img alt="Git" src="https://simpleicons.org/icons/git.svg" width="50" heigth="50"/>
 </div>
 
