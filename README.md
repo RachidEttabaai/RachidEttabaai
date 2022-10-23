@@ -28,4 +28,4 @@ Bac+2 ayant :
 
 ## Intéressé par mon profil ?
 
-Je suis à la recherche d'un poste de développeur web oriénté back-end avec le framework PHP Symfony.
+Je suis à la recherche d'un poste de développeur web oriénté back-end avec et/ou sans le framework PHP Symfony.
