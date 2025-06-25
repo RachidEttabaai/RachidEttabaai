@@ -14,11 +14,20 @@
 
 ## Présentation
 
-Diplomé depuis fin 2020 d’un titre pro développeur web et web mobile RNCP
-Bac+2 ayant :
-- un an d'expérience professionnelle en tant que développeur web.
-- du bénévolat en tant que développeur web dans diverses associations depuis décembre 2020 (cf profil LinkedIn https://www.linkedin.com/in/rachid-ettabaai).
-- travaux sur divers projets personnels mis en ligne sur mon profil GitHub (https://github.com/RachidEttabaai?tab=repositories) depuis fin 2020.
+Aujourd'hui à l'écoute d'opportunités pour un poste de technicien d'exploitation informatique ou développeur web back-end junior.
+
+Développeur web back-end en ayant 1 an XP pro avec une casquette de technicien d'exploitation informatique avec plus de 2 ans et demi d'expérience pro.
+
+Développeur Web bénévole de l'association depuis plus de 2 ans chez AideEducation: https://aideeducation.fr/
+
+Github :
+ https://github.com/RachidEttabaai
+
+GitLab :
+ https://gitlab.com/rachid_ettabaai
+
+Profil Sololearn:
+https://www.sololearn.com/profile/11738864/?ref=app
 
 ## Compétences
 
