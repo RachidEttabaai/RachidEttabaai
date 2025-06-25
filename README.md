@@ -21,7 +21,7 @@ Développeur web back-end en ayant 1 an XP pro avec une casquette de technicien 
 Développeur Web bénévole de l'association depuis plus de 2 ans chez AideEducation: https://aideeducation.fr/
 
 Github :
- https://github.com/RachidEttabaai
+ https://github.com/RachidEttabaai?tab=repositories
 
 GitLab :
  https://gitlab.com/rachid_ettabaai
